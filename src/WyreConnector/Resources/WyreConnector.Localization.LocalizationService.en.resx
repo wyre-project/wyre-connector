@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="NoRootModulesInstalled" xml:space="preserve">
+    <value>No root modules installed.</value>
+  </data>
+  <data name="InstallRootModuleToGetStarted" xml:space="preserve">
+    <value>Install a root module to get started:</value>
+  </data>
+  <data name="Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+</root>

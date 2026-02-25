@@ -8,7 +8,8 @@
 		"ghcr.io/devcontainers/features/dotnet:2": {},
 		"ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:1": {},
 		"ghcr.io/devcontainers-extra/features/grpcurl-asdf:2": {},
-		"ghcr.io/dotnet/aspire-devcontainer-feature/dotnetaspire:1": {}
+		"ghcr.io/dotnet/aspire-devcontainer-feature/dotnetaspire:1": {},
+		"ghcr.io/devcontainers-extra/features/ccache-asdf:2": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
